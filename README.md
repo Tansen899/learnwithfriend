@@ -1,4 +1,4 @@
-#LearnWithBondhu - A online educational platform.
+#LearnWithFriend - A online educational platform.
 
 This is a online educational website which is Free for learn. Many type of course here.
 Many popular Instructor publised their course on this website.
