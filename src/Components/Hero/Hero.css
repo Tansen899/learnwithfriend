@@ -1,0 +1,17 @@
+.hero{
+    margin-top: 100px;
+}
+.custom-color{
+    color: tomato;
+}
+.custom-color2{
+    color: #0c7869;
+}
+.custom-btn{
+    background-color:tomato ;
+    color: white;
+}
+.custom-btn2{
+    background-color:#0c7869 ;
+    color: white;
+}
